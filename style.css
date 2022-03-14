@@ -11,6 +11,8 @@
 	h6{font-size:  0.5rem;}
 /* no purple hyperlinks */
 	a:visited {color: blue;}
+/*no border on iframes*/
+iframe {border: none;}
 /* format accordion-label, add [+] before, and change to [-] when parent accordion-item is open*/
 .accordion-label {
 	font-size: 1.5rem;
